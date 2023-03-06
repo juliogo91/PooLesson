@@ -22,7 +22,7 @@ public class Imc {
     }
 
     public float getAltura() {
-        return altura;                         //FORMATAR CÓDIGO alt + shift + f
+        return altura;                        
     }
 
     public void setAltura(float altura) {
